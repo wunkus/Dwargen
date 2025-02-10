@@ -3,4 +3,3 @@ Dwargen is a small 2D platformer, about a dwarf traversing a goblin-infested min
 
 ![Screenshot 2023-12-30 115919](https://github.com/user-attachments/assets/e7a7c499-0594-4ffc-a281-fd97e672bd35)
 
-https://youtu.be/ORE-l6eXc8s
